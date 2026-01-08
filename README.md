@@ -13,4 +13,4 @@ A Python tool to help Blue Teamers log, track, and resolve security incidents. I
 
 ## How to Run
 1. Install Python 3
-2. Run `python incident_tool.py`
+2. Run `python_incident_tool.py`
